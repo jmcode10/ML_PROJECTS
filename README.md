@@ -1,1 +1,1 @@
-# ML_PROJECTS
+This repository contains ml project folders.
